@@ -618,9 +618,9 @@ A: 由于权限限制，您无法直接触发主仓库的 Actions。请通过 Fo
 
 ## Bloome
 
-<p><a href="https://bloome.im/login?ref=KUyJQU6F"><img src="static/other/Bloome_AD.png" alt="Bloome"></a></p>
-<p>不想在本地折腾环境？可以把 XHS-Downloader 作为一个 Agent 接入 <a href="https://bloome.im/login?ref=KUyJQU6F">Bloome</a>：零配置，一键在云端运行，浏览器和手机都能用，还能把配置好的 Agent 直接分享给他人，无需各自部署！</p>
-<p>立即体验：<a href="https://bloome.im/login?ref=KUyJQU6F">https://bloome.im/login?ref=KUyJQU6F</a></p>
+<p><a href="https://bloome.im/app?ref=KUyJQU6F&utm_medium=github&utm_source=JoeanAmier-XHS-Downloader-ivor-202606"><img src="static/other/Bloome_AD.png" alt="Bloome"></a></p>
+<p>不想在本地折腾环境？可以把 XHS-Downloader 作为一个 Agent 接入 <a href="https://bloome.im/app?ref=KUyJQU6F&utm_medium=github&utm_source=JoeanAmier-XHS-Downloader-ivor-202606">Bloome</a>：零配置，一键在云端运行，浏览器和手机都能用，还能把配置好的 Agent 直接分享给他人，无需各自部署！</p>
+<p>立即体验：<a href="https://bloome.im/app?ref=KUyJQU6F&utm_medium=github&utm_source=JoeanAmier-XHS-Downloader-ivor-202606">https://bloome.im/app?ref=KUyJQU6F&utm_medium=github&utm_source=JoeanAmier-XHS-Downloader-ivor-202606</a></p>
 
 ***
 

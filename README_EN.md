@@ -647,9 +647,9 @@ repository to execute the build process
 
 ## Bloome
 
-<p><a href="https://bloome.im/login?ref=KUyJQU6F"><img src="static/other/Bloome_AD.png" alt="Bloome"></a></p>
-<p>Don't want to deal with setting up the environment locally? You can integrate XHS-Downloader as an Agent with <a href="https://bloome.im/login?ref=KUyJQU6F">Bloome</a>: zero configuration, one-click cloud deployment, accessible from both browser and mobile, and you can share your configured Agent directly with others without needing separate deployments!</p>
-<p>Try it now: <a href="https://bloome.im/login?ref=KUyJQU6F">https://bloome.im/login?ref=KUyJQU6F</a></p>
+<p><a href="https://bloome.im/app?ref=KUyJQU6F&utm_medium=github&utm_source=JoeanAmier-XHS-Downloader-ivor-202606"><img src="static/other/Bloome_AD.png" alt="Bloome"></a></p>
+<p>Don't want to deal with setting up the environment locally? You can integrate XHS-Downloader as an Agent with <a href="https://bloome.im/app?ref=KUyJQU6F&utm_medium=github&utm_source=JoeanAmier-XHS-Downloader-ivor-202606">Bloome</a>: zero configuration, one-click cloud deployment, accessible from both browser and mobile, and you can share your configured Agent directly with others without needing separate deployments!</p>
+<p>Try it now: <a href="https://bloome.im/app?ref=KUyJQU6F&utm_medium=github&utm_source=JoeanAmier-XHS-Downloader-ivor-202606">https://bloome.im/app?ref=KUyJQU6F&utm_medium=github&utm_source=JoeanAmier-XHS-Downloader-ivor-202606</a></p>
 
 ***
 
